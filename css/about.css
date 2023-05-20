@@ -1,0 +1,31 @@
+.about{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+  
+}
+
+.aboutUs{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.aboutUs h1{
+    font-size: 50px;
+    margin-top: 5vw;
+}
+
+.aboutUs h2{
+    font-size: 25px;
+    color: rgb(14, 131, 255);
+}
+
+.aboutUs h3{
+    color: azure;
+    margin-top: 10px;
+    text-align: justify;
+    width: 50vw;
+    margin-left: 25vw;
+    margin-bottom: 5vw;
+}
